@@ -1,5 +1,5 @@
 ## About
-  This project is a Node-based server that serves as an intermediary between various LLMs (large language models) and Open Web UI. The purpose of this project is to create a personalized and extremely customizabe way to interact with LLMs.
+  This project is a Node-based API that serves as an intermediary between various LLMs (large language models) and Open Web UI. The purpose of this project is to create a personalized and extremely customizabe way to interact with LLMs.
   
   Here are some ways that this approach to interacting with LLms is more versatile than the standard chat interfaces offered by companies like Open AI and Anthropic.
     * Long term memory (implemented in this project using LangChain)
