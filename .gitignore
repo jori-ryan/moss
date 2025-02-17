@@ -1,0 +1,5 @@
+node_modules/
+src/models
+vectorstore.json
+log.txt
+.env

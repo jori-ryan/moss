@@ -1,0 +1,22 @@
+{
+  "name": "moss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "@langchain/core": "^0.3.36",
+    "@langchain/openai": "^0.4.2",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "langchain": "^0.3.13",
+    "ollama": "^0.5.9",
+    "openai": "^3.2.1"
+  },
+  "scripts": {
+    "start": "node src/server"
+  },
+  "keywords": [],
+  "author": "Jori Ryan"
+}
