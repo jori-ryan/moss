@@ -18,7 +18,7 @@
   * Add a database for LangChain vector stores. Currently, the project uses text files for vector stores.
 
 ## Setup
-  * Follow the Open Web UI docker setup instructions Open Web UI provides a user interface that can be routed through this project.
+  * Follow the Open Web UI docker setup instructions. Open Web UI provides a user interface that can be routed through this project.
     - https://docs.openwebui.com/
   * Install ollama. This provides a free local LLM for small, free queries.
     - https://ollama.com/
