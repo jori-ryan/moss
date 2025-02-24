@@ -3,13 +3,13 @@
   
   Here are some ways that this approach to interacting with LLms is more versatile than the standard chat interfaces offered by companies like Open AI and Anthropic.
   
-    * Long term memory (implemented in this project using LangChain)
-    * Fine control of prompts
-    * Conditional prompts
-    * Multistage prompts
-    * Interactions with multiple LLMs from different companies.
-    * Interactions with non-LLM projects.
-    * Access to cutting edge models through API tokens instead of paying for subscriptions. This can be more cost effective, depending on the volume of use.
+* Long term memory (implemented in this project using LangChain)
+* Fine control of prompts
+* Conditional prompts
+* Multistage prompts
+* Interactions with multiple LLMs from different companies.
+* Interactions with non-LLM projects.
+* Access to cutting edge models through API tokens instead of paying for subscriptions. This can be more cost effective, depending on the volume of use.
 
 ## Roadmap
   * Store short term memories so that they persist across chats.
